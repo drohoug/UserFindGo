@@ -1,2 +1,2 @@
 # UserFindGo
-Simple too: Username Finder writed in go.
+Simple tool: Username Finder writed in go.
